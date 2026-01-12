@@ -19,3 +19,6 @@
 [submodule "starter-templates/multi-chain-token-manager/contracts/lib/chainlink-ccip"]
 	path = starter-templates/multi-chain-token-manager/contracts/lib/chainlink-ccip
 	url = https://github.com/smartcontractkit/chainlink-ccip
+[submodule "building-blocks/cre-gcp-prediction-market-demo"]
+	path = building-blocks/cre-gcp-prediction-market-demo
+	url = https://github.com/smartcontractkit/cre-gcp-prediction-market-demo.git
