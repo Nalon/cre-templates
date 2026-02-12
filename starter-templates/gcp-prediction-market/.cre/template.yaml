@@ -8,7 +8,7 @@ tags: [gemini-ai, firebase, prediction-market, gcp, evm-settlement]
 networks:
   - ethereum-testnet-sepolia
 workflows:
-  - dir: cre-workflow/prediction-market-demo
+  - dir: ../cre-workflow/prediction-market-demo
     description: "Event-driven settlement workflow using Gemini AI and Firestore"
 postInit: |
   1. Deploy SimpleMarket contract (see contracts/README.md)
